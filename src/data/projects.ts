@@ -33,8 +33,8 @@ export const projects: Project[] = [
       "Built real-time seat reservation, expiry, cancellation, and dynamic pricing using Socket.io.",
       "Integrated Stripe Checkout and QR-code ticket generation.",
     ],
-    githubUrl: "#",
-    liveUrl: "#",
+    githubUrl: "https://github.com/MayThetNaingBo/concert-booking-system.git",
+    liveUrl: "https://concerthub.maythetnaingbo.com",
   },
   {
     name: "CCN Carnival",
@@ -48,7 +48,7 @@ export const projects: Project[] = [
       "Added purchases, donations, refunds, payment records, and withdrawal rules.",
       "Connected the smart contract to a frontend using MetaMask on Sepolia.",
     ],
-    githubUrl: "#",
+    githubUrl: "https://github.com/MayThetNaingBo/CCN_Carnival.git",
   },
   {
     name: "Aqua-IQ",
@@ -70,7 +70,7 @@ export const projects: Project[] = [
       "Designed a mobile app concept for hydration data, refill locations, and personalized notifications.",
       "Planned AWS services for IoT data processing, storage, alerts, and security.",
     ],
-    githubUrl: "#",
+    githubUrl: "https://github.com/MayThetNaingBo/aqua-iq-smart-water-bottle.git",
   },
   
   {
@@ -94,7 +94,8 @@ export const projects: Project[] = [
       "Fetched real-time FX rates, CBM Myanmar rates, historical charts, and forex news.",
       "Added FX visualization, MMK-to-SGD conversion, result pages, and simple rate forecasting.",
     ],
-    githubUrl: "#",
+    githubUrl: "https://github.com/MayThetNaingBo/MerlionFX-app.git",
+    liveUrl: "https://merlionfx.maythetnaingbo.com",
   },
   {
     name: "Arising Starlights",
@@ -108,6 +109,7 @@ export const projects: Project[] = [
       "Built public browsing with restricted access to protected features.",
       "Implemented authentication, OTP reset, event registration, notifications, search, and profile editing.",
     ],
-    githubUrl: "#",
+    githubUrl: "https://github.com/MayThetNaingBo/Arising-Starlight.git",
+    liveUrl: "https://starlightcca.maythetnaingbo.com",
   },
 ];
