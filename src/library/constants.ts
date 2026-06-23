@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "May Thet Naing Bo",
+  name: "MAY Thet Naing Bo",
   title: "Diploma in Information Technology Graduate",
   shortTitle: "IT Diploma Graduate | Full-Stack Developer",
   location: "Singapore",
